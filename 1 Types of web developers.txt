@@ -1,0 +1,13 @@
+- Các nhà phát triển web xây dựng và duy trì các website. Họ làm việc với các khách hàng để biến nhu cầu của họ thành sản phẩm cuối cùng. Khách hàng có thể là các công ty công nghệ, tổ chức hoặc chính phủ. Công việc có thể liên quan đến front-end, back-end hoặc full-stack.
+
+Các KIỂU WEB DEVELOPERS:
+
+1. Front end developer: sử dụng HTML, CSS, JavaScript và các frameworks liên quan để đảm bảo nội dụng hiển thị hiệu quả và người dùng có trải nghiệm tốt nhất.
+
+2. Back end developer: Back-end là ruột của ứng dụng và nó live trên server. Back-end lưu trữ và sử dụng dữ liệu chương trình để đảm bảo front-end có được cái mà nó cần. Các back-end developers sử dụng các ngôn ngữ lập trình như Javs, JavaScript, Python, Ruby để làm việc với dữ liệu.
+
+3. Full-stack developers: Thoải mái làm việc với cả 2 phía front và back ends. Bao hàm mọi khía cạnh của phát triển web.
+
+
+
+

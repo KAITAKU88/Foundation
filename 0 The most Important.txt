@@ -1,4 +1,5 @@
 The Odin Project không tập trung vào dạy 1 kỹ năng đơn lẻ hay 1 công cụ nhất định, mà hướng đến giúp ta hiểu bản chất của lập trình, các giải quyết vấn đề và tự nghiên cứu.
+
 - Tư duy quan trọng hơn là công cụ: Việc thay đổi mindset, biết cách đặt câu hỏi đúng, tra cứu tài  liệu và tự giải quyết vấn đề mới là quan trọng nhất, không phải là việc học cú pháp. Vì khi có tư duy nền tảng vững, việc học bất cứ công cụ/ngôn ngữ nào đó đều dễ dàng hơn.
 - Cách học hiệu quả nhất là đọc hiểu các tài liệu kỹ thuật (chính thức Documentation). Một lập trình viên cần phải làm điều này.
 - Khi đã hiểu nguyên lý chung thì các kiến thức có thể chuyển đổi sang bất kỳ ngôn ngữ/công nghệ nào. Ví dụ bạn đang học về JavaScript, nhưng khi đã hiểu nguyên lý chung, bạn chỉ cần tìm cách thực hiện cụ thể, ví dụ Làm X bằng ngôn ngữ Python.
